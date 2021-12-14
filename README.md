@@ -3,9 +3,8 @@
 Here there should be the link of the paper and some very abstract description 
 
 Fiji Macros files:
-
--Macro cell count: counts the number of GFP+ nuclei over time, returns number and cell density.
--Leader Analysis: reports the speed of migration of leader/follower pairs by tracking the position of the colonies borders over time
+- Macro cell count: counts the number of GFP+ nuclei over time, returns number and cell density.
+- Leader Analysis: reports the speed of migration of leader/follower pairs by tracking the position of the colonies borders over time
 
 Installation of the python segmentation app:
 
