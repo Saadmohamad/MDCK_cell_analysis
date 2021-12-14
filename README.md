@@ -1,8 +1,9 @@
 # cell_segm_app
 
-This Mac app uses Mask_RCNN from facebook detectron2 library.
+Here there should be the link of the paper and some very abstract description 
 
-Installation:
+Installation of the pythonsegmentation app:
+This Mac app uses Mask_RCNN from facebook detectron2 library.
 - Donwload the souece code
 
 - install anaconda that is in your browser go to https://repo.anaconda.com/archive/Anaconda3-2020.11-MacOSX-x86_64.pkg 
