@@ -20,7 +20,7 @@ This Mac app uses Mask_RCNN from facebook detectron2 library:
 - Install opencv: pip install opencv-python-headless==4.5.1.48
 - install detectron2, we tested this version on: CC=clang CXX=clang++ python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 - install QT: pip install PyQt5==5.15.2
-- Download the trained model and place it in the code path: https://drive.google.com/file/d/1gX4c8g-qCN0blyGwJA3i00mWuefFMZ--/view?usp=sharing
+- Download the trained model and place it in the model directory inside the code path: https://drive.google.com/file/d/1d-FM79ncUfTK64yHpXnPmqxd2xBrCcS1/view?usp=sharing
 
 
 
